@@ -5,7 +5,7 @@ Template Name: Vida de Tradutor
     get_header();
 ?>
 
-<h1 class="titulo-vida-de-tradutor">Vida de Tradutor</h1>
+<h1 class="titulo-vida-de-tradutor">Carreira</h1>
 
 
 <ul class="slider">
